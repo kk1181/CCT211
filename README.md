@@ -4,7 +4,7 @@ A small interactive game prototype built with Python and Pygame, designed to exp
 
 ---
 
-## ✨ Design Goals
+# ✨ Design Goals
 - Intuitive Controls: Simple left/right arrow key movement for immediate player engagement.  
 - Clear Feedback: Visual score and life counters at the top of the screen provide instant status updates.  
 - Challenge & Flow: Difficulty balanced through bouncing mechanics and falling obstacles to keep players engaged without being overwhelming.  
@@ -12,7 +12,7 @@ A small interactive game prototype built with Python and Pygame, designed to exp
 
 ---
 
-## 🎮 User Experience
+# 🎮 User Experience
 - Onboarding: No tutorial needed — the rules are learned through direct interaction.  
 - Visual Cues:  
   - Bright ball and paddle graphics highlight core mechanics.  
